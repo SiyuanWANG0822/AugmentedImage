@@ -1,0 +1,448 @@
+{
+  materials: [
+    {
+      name: 'initialShadingGroup',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.5,
+            0.5,
+            0.5,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'phong1SG',
+      parameters: [
+        {
+          baseColor: '1_BaseColor',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'phong2SG',
+      parameters: [
+        {
+          baseColor: '2_BaseColor',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'phong3SG',
+      parameters: [
+        {
+          baseColor: '3_BaseColor',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'phong4SG',
+      parameters: [
+        {
+          baseColor: '4_BaseColor',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'phong5SG',
+      parameters: [
+        {
+          baseColor: '5_BaseColor',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'phong6SG',
+      parameters: [
+        {
+          baseColor: '6_BaseColor',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'phong7SG',
+      parameters: [
+        {
+          baseColor: '7_BaseColor',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'phong8SG',
+      parameters: [
+        {
+          baseColor: '8_BaseColor',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'phong9SG',
+      parameters: [
+        {
+          baseColor: '9_BaseColor',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'phong10SG',
+      parameters: [
+        {
+          baseColor: '10_BaseColor',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'phong11SG',
+      parameters: [
+        {
+          baseColor: '11_BaseColor',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'phong12SG',
+      parameters: [
+        {
+          baseColor: '12_BaseColor',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+    {
+      name: 'phong13SG',
+      parameters: [
+        {
+          baseColor: '13_BaseColor',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 0,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/models/6vw631s7bncw-AcousticGuitar/Acoustic Guitar/Models and Textures/guitar.obj',
+    name: 'guitar',
+    recenter: 'root',
+    scale: 0.99917599999999995,
+  },
+  samplers: [
+    {
+      file: 'sampledata/models/6vw631s7bncw-AcousticGuitar/Acoustic Guitar/Models and Textures\\9_BaseColor.png',
+      name: '9_BaseColor',
+      pipeline_name: '9_BaseColor.png',
+    },
+    {
+      file: 'sampledata/models/6vw631s7bncw-AcousticGuitar/Acoustic Guitar/Models and Textures\\1_BaseColor.png',
+      name: '1_BaseColor',
+      pipeline_name: '1_BaseColor.png',
+    },
+    {
+      file: 'sampledata/models/6vw631s7bncw-AcousticGuitar/Acoustic Guitar/Models and Textures\\2_BaseColor.png',
+      name: '2_BaseColor',
+      pipeline_name: '2_BaseColor.png',
+    },
+    {
+      file: 'sampledata/models/6vw631s7bncw-AcousticGuitar/Acoustic Guitar/Models and Textures\\3_BaseColor.png',
+      name: '3_BaseColor',
+      pipeline_name: '3_BaseColor.png',
+    },
+    {
+      file: 'sampledata/models/6vw631s7bncw-AcousticGuitar/Acoustic Guitar/Models and Textures\\4_BaseColor.png',
+      name: '4_BaseColor',
+      pipeline_name: '4_BaseColor.png',
+    },
+    {
+      file: 'sampledata/models/6vw631s7bncw-AcousticGuitar/Acoustic Guitar/Models and Textures\\5_BaseColor.png',
+      name: '5_BaseColor',
+      pipeline_name: '5_BaseColor.png',
+    },
+    {
+      file: 'sampledata/models/6vw631s7bncw-AcousticGuitar/Acoustic Guitar/Models and Textures\\6_BaseColor.png',
+      name: '6_BaseColor',
+      pipeline_name: '6_BaseColor.png',
+    },
+    {
+      file: 'sampledata/models/6vw631s7bncw-AcousticGuitar/Acoustic Guitar/Models and Textures\\7_BaseColor.png',
+      name: '7_BaseColor',
+      pipeline_name: '7_BaseColor.png',
+    },
+    {
+      file: 'sampledata/models/6vw631s7bncw-AcousticGuitar/Acoustic Guitar/Models and Textures\\8_BaseColor.png',
+      name: '8_BaseColor',
+      pipeline_name: '8_BaseColor.png',
+    },
+    {
+      file: 'sampledata/models/6vw631s7bncw-AcousticGuitar/Acoustic Guitar/Models and Textures\\10_BaseColor.png',
+      name: '10_BaseColor',
+      pipeline_name: '10_BaseColor.png',
+    },
+    {
+      file: 'sampledata/models/6vw631s7bncw-AcousticGuitar/Acoustic Guitar/Models and Textures\\11_BaseColor.png',
+      name: '11_BaseColor',
+      pipeline_name: '11_BaseColor.png',
+    },
+    {
+      file: 'sampledata/models/6vw631s7bncw-AcousticGuitar/Acoustic Guitar/Models and Textures\\12_BaseColor.png',
+      name: '12_BaseColor',
+      pipeline_name: '12_BaseColor.png',
+    },
+    {
+      file: 'sampledata/models/6vw631s7bncw-AcousticGuitar/Acoustic Guitar/Models and Textures\\13_BaseColor.png',
+      name: '13_BaseColor',
+      pipeline_name: '13_BaseColor.png',
+    },
+  ],
+  version: '0.54:2',
+}

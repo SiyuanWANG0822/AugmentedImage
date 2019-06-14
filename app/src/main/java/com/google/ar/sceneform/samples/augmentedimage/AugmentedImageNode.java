@@ -67,7 +67,7 @@ public class AugmentedImageNode extends AnchorNode {
     if (ulCorner == null) {
       ulCorner =
               ModelRenderable.builder()
-                      .setSource(context, Uri.parse("IronMan.sfb"))
+                      .setSource(context, Uri.parse(".sfb"))
                       .build();
     }
   }

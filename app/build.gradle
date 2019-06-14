@@ -75,3 +75,23 @@ sceneform.asset('sampledata/models/ironman/IronMan.obj',
         'default',
         'sampledata/models/ironman/IronMan.sfa',
         'src/main/assets/IronMan')
+
+sceneform.asset('sampledata/models/rnkyahslfksg-Building/Building.obj',
+        'default',
+        'sampledata/models/rnkyahslfksg-Building/Building.sfa',
+        'src/main/assets/Building')
+
+sceneform.asset('sampledata/models/m44yb2izzm68-Project/androen cinema.obj',
+        'default',
+        'sampledata/models/m44yb2izzm68-Project/androen cinema.sfa',
+        'src/main/assets/androen cinema')
+
+sceneform.asset('sampledata/models/Skull_v3_L2.123c1407fc1e-ea5c-4cb9-9072-d28b8aba4c36/12140_Skull_v3_L2.obj',
+        'default',
+        'sampledata/models/Skull_v3_L2.123c1407fc1e-ea5c-4cb9-9072-d28b8aba4c36/12140_Skull_v3_L2.sfa',
+        'src/main/assets/12140_Skull_v3_L2')
+
+sceneform.asset('sampledata/models/6vw631s7bncw-AcousticGuitar/Acoustic Guitar/Models and Textures/guitar.obj',
+        'default',
+        'sampledata/models/6vw631s7bncw-AcousticGuitar/Acoustic Guitar/Models and Textures/guitar.sfa',
+        'src/main/assets/guitar')
