@@ -70,3 +70,8 @@ sceneform.asset('sampledata/models/dog/dog/12228_Dog_v1_L2.obj',
         'default',
         'sampledata/models/dog/dog/12228_Dog_v1_L2.sfa',
         'src/main/assets/12228_Dog_v1_L2')
+
+sceneform.asset('sampledata/models/ironman/IronMan.obj',
+        'default',
+        'sampledata/models/ironman/IronMan.sfa',
+        'src/main/assets/IronMan')

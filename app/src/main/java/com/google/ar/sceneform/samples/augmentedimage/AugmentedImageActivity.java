@@ -84,6 +84,7 @@ public class AugmentedImageActivity extends AppCompatActivity {
 
     Collection<AugmentedImage> updatedAugmentedImages =
         frame.getUpdatedTrackables(AugmentedImage.class);
+    //判断扫描状态
     for (AugmentedImage augmentedImage : updatedAugmentedImages) {
       switch (augmentedImage.getTrackingState()) {
         case PAUSED:
@@ -129,7 +130,7 @@ public class AugmentedImageActivity extends AppCompatActivity {
     node.setLocalPosition(localPosition);
     node.setRenderable(augmentedImageNode.getMyRenderable());
 
-    /**
+
     // Create the transformable andy and add it to the anchor.
     TransformableNode transformableNode = new TransformableNode(arFragment.getTransformationSystem());
     transformableNode.setParent(anchorNode);
@@ -145,6 +146,7 @@ public class AugmentedImageActivity extends AppCompatActivity {
     cornerNode.setRenderable(ulCorner.getNow(null));;
   }*/
 
+  //传递ArFragment到类Node中
   public ArFragment getArFragment() {
     return this.arFragment;
   }
